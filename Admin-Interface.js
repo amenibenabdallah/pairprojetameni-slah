@@ -123,7 +123,7 @@ $('#add-doctor').click(function () {
     $('#add-form').toggle()
 })
 
-//this 
+// this hide the dctor add form when the page is acced 
 $('#add-form').hide()
 
 

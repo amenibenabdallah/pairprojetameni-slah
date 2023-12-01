@@ -11,11 +11,11 @@ body, h1, h2, p, ul, li {
   }
   
   #big-container {
-    max-width: 800px;
+    width: 1200px;
     margin: 20px auto;
     background-color: #fff;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
   }
   
   
@@ -28,7 +28,7 @@ body, h1, h2, p, ul, li {
   }
   
   th, td {
-    border: 1px solid #eeebeb;
+    border: 1px solid #c9c4c4;
     padding: 8px;
     text-align: left;
   }

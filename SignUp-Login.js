@@ -74,6 +74,7 @@ function getData() {
     }
 
 }
+//sign in button functionality
 $('#sign-in-button').click(function(){
     getData()
 })
